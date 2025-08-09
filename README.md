@@ -1,26 +1,42 @@
-# Mohamed Wael  
-**Data Analyst**  
+<h3 align="center">
+  Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## ​ About Me  
-I am Mohamed Wael, a passionate **Data Analyst** with strong skills in data cleaning, visualization, and analysis.  
-I enjoy transforming raw data into meaningful insights that drive decision-making.  
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20I'm%20Mohamed%20Wael;Data%20Analysis%20Engineer;3rd%20Year%20AI%20Student&font=Fira%20Code&center=true&width=540&height=60&color=00ff00&vCenter=true&size=22">
+  </a>
+</p> 
 
-##  Contact & Social Links  
-- Instagram: [@mohamedwael465](https://www.instagram.com/mohamedwael465)  
-- X (formerly Twitter): [@Mohamed20599253](https://x.com/Mohamed20599253?t=N6hg_P-AflDXkEc8zZyBrg&s=09)  
-- LinkedIn: [Mohamed Wael](https://www.linkedin.com/in/mohamed-wael-27a5402b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Facebook: [My Facebook](https://www.facebook.com/share/d4NBChxCGXJw4uKA/)  
+- 🎓 Third-year Artificial Intelligence student  
+- 📊 Data Analysis Engineer passionate about turning raw data into actionable insights  
+- 💡 Skilled in Python, SQL, Power BI, Excel, MongoDB, Tableau, VS Code, Git, and GitHub  
 
-## ​ Languages & Tools  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" alt="Tableau" width="40" height="40"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/share/d4NBChxCGXJw4uKA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://x.com/Mohamed20599253?t=N6hg_P-AflDXkEc8zZyBrg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-wael-27a5402b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohamedwael465" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedwael465&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=mohamedwael465&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=mohamedwael465&style=for-the-badge">
+</a>
+
